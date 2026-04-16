@@ -5,6 +5,6 @@ The first component is a complete Type Chart displaying all 18 Pokemon types in 
 
 The second and more powerful component is the Team Builder. Users can configure up to six Pokemon slots, each with primary and optional secondary type selections. As types are assigned, the application automatically calculates the team's combined defensive profile. It aggregates weaknesses, resistances, and immunities across all team members, presenting them in organized sections. Critically, the tool identifies coverage gaps—if multiple Pokemon share a common weakness, a warning alert appears, such as "Your team has 3 Pokemon weak to Ground!" This helps players spot vulnerabilities they might otherwise miss.
 
-The interface features a dark theme with atmospheric background elements and official Pokemon type colors for authenticity. It is fully responsive, working equally well on desktop monitors and mobile phones. Animations are smooth but respect user preferences for reduced motion.
+<img width="1170" height="932" alt="image" src="https://github.com/user-attachments/assets/69f5158f-015a-4d7c-8098-e63f790f7974" />
+<img width="1170" height="804" alt="image" src="https://github.com/user-attachments/assets/7fb4baba-85bd-421e-8720-b6fb38e19d90" />
 
-This tool serves competitive players optimizing tournament teams, casual players learning the type system, Nuzlocke challengers planning safe routes, and newcomers memorizing matchups. By making type knowledge visual and interactive, it transforms a complex web of numbers into an intuitive experience that helps players build better teams and make smarter decisions in battle.
