@@ -36,8 +36,8 @@ Built as a single HTML file with no external libraries, this tool combines two e
 
 ## Screenshots
 
-![Type Chart]<img width="1170" height="932" alt="image" src="https://github.com/user-attachments/assets/69f5158f-015a-4d7c-8098-e63f790f7974" />
-![Team Builder](<img width="1170" height="804" alt="image" src="https://github.com/user-attachments/assets/7fb4baba-85bd-421e-8720-b6fb38e19d90" />
+<img width="1170" height="932" alt="image" src="https://github.com/user-attachments/assets/69f5158f-015a-4d7c-8098-e63f790f7974" />
+<img width="1170" height="804" alt="image" src="https://github.com/user-attachments/assets/7fb4baba-85bd-421e-8720-b6fb38e19d90" />
 
 ## Tech Stack
 
